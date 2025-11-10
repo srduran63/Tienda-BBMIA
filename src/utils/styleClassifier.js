@@ -1,0 +1,1 @@
+export const classifyProductStyle = (product) => ['streetwear']; // Implementar lógica real

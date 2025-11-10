@@ -1,0 +1,1 @@
+export const classifyProductGender = (product) => 'unisex'; // Implementar lógica real
