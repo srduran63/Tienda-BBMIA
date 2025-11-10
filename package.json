@@ -1,7 +1,12 @@
 {
-  "dependencies": {
-    "@supabase/supabase-js": "^2.80.0",
-    "lucide-react": "^0.553.0",
-    "stripe": "^19.3.0"
-  }
+    "dependencies": {
+        "@supabase/supabase-js": "^2.80.0",
+        "lucide-react": "^0.553.0",
+        "stripe": "^19.3.0"
+    },
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build",
+        "serve": "vite preview"
+    }
 }
